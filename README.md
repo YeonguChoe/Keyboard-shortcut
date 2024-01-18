@@ -1,1 +1,1 @@
-# Keyboard-shortcut
+# Keyboard shortcut
