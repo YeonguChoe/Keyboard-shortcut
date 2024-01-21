@@ -9,8 +9,6 @@
 1. 함수에서 나오기(Step Out): F8
 1. 다음 breakpoint까지 이동(Continue): control + command + Y
 
-
-
 ## 줄에 관한 단축키
 1. 줄 자체를 이동(커서가 있는 줄을 위/아래로 이동): option + command +[/]
 
@@ -47,27 +45,12 @@
 # 에디터 그룹에 관한 단축키
 1. Text editor로 이동: command + J
 1. 왼쪽 N번째 에디터 그룹 이동: command + <N>
-2. 오른쪽 N번째 에디터 그룹 이동: option + command + <N>
-
-
----
-# 완료
----
+1. 오른쪽 N번째 에디터 그룹 이동: option + command + <N>
 
 # 탭에 관한 단축키
-1. 탭 이동: control + tab
-1. N번째 탭으로 이동: control + <N>
+1. 탭 이동: shift + command + {/}
+1. 탭 보여주기: control + 5
 
 # 사이드바에 관한 단축키
-1. 탐색기 사이드바 열기: shift + command + E
-1. 사이드바 보이기 또는 숨기기: command + B
-
-# 마크다운에 관한 단축키
-1. 마크다운 미리보기를 오른쪽 editor group에 보여준다: (command + K) + V
-1. 마크다운 미리보기를 새로운 탭에 보여준다: shift + command + V
-
-# Terminal에 관한 단축키
-1. Terminal 열기: control + `
-1. 새로운 terminal 만들기: control + shift + `
-1. 다른 terminal로 이동: shift + command + [ or ]
-1. Terminal 닫기: control + D
+1. 탐색기 사이드바 열기: command + 숫자 1
+1. 사이드바 보이기 또는 숨기기: command + 숫자 0
