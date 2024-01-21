@@ -6741,19 +6741,15 @@
 				<string>deleteToBeginningOfText:</string>
 				<string>moveToBeginningOfParagraphAndModifySelection:</string>
 				<string>moveSubWordForwardAndModifySelection:</string>
-				<string>moveToEndOfTextAndModifySelection:</string>
 				<string>moveToBeginningOfDocumentAndModifySelection:</string>
-				<string>moveDownAndModifySelection:</string>
 				<string>moveWordBackwardAndModifySelection:</string>
 				<string>moveWordForwardAndModifySelection:</string>
 				<string>moveSubWordForward:</string>
 				<string>pageUpAndModifySelection:</string>
-				<string>moveRightAndModifySelection:</string>
 				<string>moveBackwardAndModifySelection:</string>
 				<string>moveToBeginningOfParagraph:</string>
 				<string>moveToEndOfDocumentAndModifySelection:</string>
 				<string>moveParagraphBackwardAndModifySelection:</string>
-				<string>moveToBeginningOfTextAndModifySelection:</string>
 				<array>
 					<string>moveBackward:</string>
 					<string>moveToBeginningOfParagraph:</string>
@@ -6764,7 +6760,6 @@
 					<string>moveToEndOfParagraph:</string>
 				</array>
 				<string>pageUp:</string>
-				<string>moveUpAndModifySelection:</string>
 				<string>moveForwardAndModifySelection:</string>
 				<string>moveSubWordBackwardAndModifySelection:</string>
 				<string>moveParagraphForwardAndModifySelection:</string>
@@ -6780,6 +6775,10 @@
 			<string>insertBacktab:</string>
 			<key>$@K</key>
 			<string>deleteLine:</string>
+			<key>$</key>
+			<string>moveUpAndModifySelection:</string>
+			<key>$</key>
+			<string>moveDownAndModifySelection:</string>
 			<key>@[</key>
 			<string>insertBacktab:</string>
 			<key>@]</key>
