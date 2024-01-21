@@ -30,8 +30,6 @@
 ## Linting
 1. 코드 자동 재배열 하기: control + I
 
-
-
 # 검색에 관한 단축키
 1. 현재 프로젝트의 모든 파일에서 문자 찾기: shift + command + F
 
@@ -54,3 +52,7 @@
 # 사이드바에 관한 단축키
 1. 탐색기 사이드바 열기: command + 숫자 1
 1. 사이드바 보이기 또는 숨기기: command + 숫자 0
+
+## Xcode console에 관한 단축키
+1. Xcode console 열기: shift + command + C
+1. Xcode console 숨기기: shift + command + Y
