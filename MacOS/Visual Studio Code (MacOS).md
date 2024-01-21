@@ -67,9 +67,3 @@
 1. 새로운 terminal 만들기: control + shift + `
 1. 다른 terminal로 이동: shift + command + [ or ]
 1. Terminal 닫기: control + D
-
-
-
-
-a
-a
