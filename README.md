@@ -13,4 +13,4 @@
 1. [Visual studio code](Linux/Visual%20Studio%20Code%20(Linux).md)
 
 # 공통
-1. [VIM](Cross%20platform/VIM.md)
+1. [VIM](Vim/)
