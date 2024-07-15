@@ -1,5 +1,7 @@
 # **Vim 단축키**
 
+![Vim Mode](./Vim_modes.svg)
+
 ## Insert 모드
 
 ### 단축키: i
