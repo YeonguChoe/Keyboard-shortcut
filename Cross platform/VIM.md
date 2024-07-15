@@ -1,6 +1,6 @@
 # **Vim 단축키**
 
-![Vim Mode](./Vim_modes.svg)
+<img src="./Vim_modes.svg" width=500 />
 
 ## Insert 모드
 
